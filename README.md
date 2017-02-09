@@ -1,6 +1,8 @@
 # deeplearning-quickstart
 A quick-start into deep learning, classifying top-wear/bottom-wear from the Myntra catalog.
 
+You can explore [this file](Start.ipynb) to see it in action. The [slides from the talk](Slides from Talk.pdf) are also available.
+
 # Summary
 
 1. Download 2000 images from the Myntra catalog.
@@ -27,6 +29,7 @@ A quick-start into deep learning, classifying top-wear/bottom-wear from the Mynt
 2. [Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu)
 3. [Andrew NG - Machine Learning](https://www.coursera.org/learn/machine-learning)
 4. [Practical Deep Learning For Coders](http://course.fast.ai)
+
 
 # Author
 
