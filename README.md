@@ -15,6 +15,19 @@ A quick-start into deep learning, classifying top-wear/bottom-wear from the Mynt
 3. `source activate myntra`
 4. `jupyter notebook Start.ipynb`
 
+# Links
+
+1. [Image kernels explained visually](http://setosa.io/ev/image-kernels/)
+2. [Visualizing parts of Convolutional Neural Networks using Keras and Cats](https://hackernoon.com/visualizing-parts-of-convolutional-neural-networks-using-keras-and-cats-5cc01b214e5)
+3. [Understanding Convolution in Deep Learning](http://timdettmers.com/2015/03/26/convolution-deep-learning/)
+
+# Courses
+
+1. [Udacity Self-driving Car Engineering Nanodegree](https://www.udacity.com/drive)
+2. [Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu)
+3. [Andrew NG - Machine Learning](https://www.coursera.org/learn/machine-learning)
+4. [Practical Deep Learning For Coders](http://course.fast.ai)
+
 # Author
 
 Param Aggarwal (paramaggarwal@gmail.com)
