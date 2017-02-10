@@ -20,7 +20,7 @@ You can explore [this file](Start.ipynb) to see it in action. The [slides from t
 # Links
 
 1. [Image kernels explained visually](http://setosa.io/ev/image-kernels/)
-2. [Visualizing parts of Convolutional Neural Networks using Keras and Cats](https://hackernoon.com/visualizing-parts-of-convolutional-neural-networks-using-keras-and-cats-5cc01b214e5)
+2. [Visualizing parts of Convolutional Neural Networks using Keras and Cats](https://hackernoon.com/visualizing-parts-of-convolutional-neural-networks-using-keras-and-cats-5cc01b214e59)
 3. [Understanding Convolution in Deep Learning](http://timdettmers.com/2015/03/26/convolution-deep-learning/)
 
 # Courses
